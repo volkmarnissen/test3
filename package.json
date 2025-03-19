@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@modbus2mqtt/test1": "file:../test1"
+    "@modbus2mqtt/test1": "github:modbus2mqtt/test1"
   }
 }
